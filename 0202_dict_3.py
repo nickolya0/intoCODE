@@ -10,7 +10,7 @@ WohnortList = ['Bismarkstr', 2, 30100]                      # initialisieren wir
 WohnortList1 = ['Bahnhof', 6, 30700]
 
 
-def dictManipulieren(dict):               # definieren wir eine Funktion mit übergabene parameter
+def dictManipulieren(dict):               # definieren eine Funktion mit übergabene parameter
 
     dict['Wohnort'] = [WohnortList, WohnortList1]
 
