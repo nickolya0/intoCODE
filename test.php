@@ -1,6 +1,0 @@
-hallohallohallohallohallohallohallo
-hallohallohallohallohallohallohallo
-hallohallohallohallohallohallohallo
-hallohallohallohallohallohallohallo
-hallohallohallohallohallohallohallo
-hallohallohallohallohallohallohallo
